@@ -9,9 +9,6 @@ import Status from './App/Pages/Status'
 const Stack = createStackNavigator();
 
 class App extends Component{
-
-  Stack = createStackNavigator();
-
   render() {
     return (
       <NavigationContainer>
